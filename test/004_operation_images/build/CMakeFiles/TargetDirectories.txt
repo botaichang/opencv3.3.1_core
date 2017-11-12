@@ -1,0 +1,1 @@
+/home/melchior/opencv3.3.1_core/test/004_operation_images/build/CMakeFiles/operations_image.dir
