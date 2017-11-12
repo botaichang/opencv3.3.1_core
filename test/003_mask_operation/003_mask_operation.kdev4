@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=003_mask_operation
