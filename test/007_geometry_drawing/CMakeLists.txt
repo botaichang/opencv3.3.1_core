@@ -1,0 +1,5 @@
+project(geometry_drawing)
+set(OpenCV_DIR "/home/mli/opencv-3.3.1/build")
+find_package(OpenCV REQUIRED)
+add_executable(geometry_drawing ./main.cpp)
+target_link_libraries(geometry_drawing ${OpenCV_LIBS})
