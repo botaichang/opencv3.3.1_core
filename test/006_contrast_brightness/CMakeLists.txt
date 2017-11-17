@@ -1,0 +1,5 @@
+project(contrast_brightness)
+set(OpenCV_DIR "/home/mli/opencv-3.3.1/build")
+find_package(OpenCV REQUIRED)
+add_executable(contrast_brightness ./main.cpp)
+target_link_libraries(contrast_brightness ${OpenCV_LIBS})
