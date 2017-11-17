@@ -1,0 +1,5 @@
+project(add_images)
+set(OpenCV_DIR "/home/mli/opencv-3.3.1/build")
+find_package(OpenCV REQUIRED)
+add_executable(add_images ./main.cpp)
+target_link_libraries(add_images ${OpenCV_LIBS})

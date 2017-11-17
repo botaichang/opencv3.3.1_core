@@ -1,0 +1,5 @@
+-DEBUG
+-I/home/mli/opencv-3.3.1/modules/core/include/
+-I/usr/include/c++
+-I/home/mli/opencv-3.3.1/include
+-I/home/mli/opencv-3.3.1/modules/
