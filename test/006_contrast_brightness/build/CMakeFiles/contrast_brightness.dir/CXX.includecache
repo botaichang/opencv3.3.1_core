@@ -1331,6 +1331,8 @@ opencv2/imgcodecs.hpp
 /home/mli/opencv3.3.1_core/test/006_contrast_brightness/opencv2/imgcodecs.hpp
 opencv2/highgui.hpp
 /home/mli/opencv3.3.1_core/test/006_contrast_brightness/opencv2/highgui.hpp
+opencv2/imgproc.hpp
+/home/mli/opencv3.3.1_core/test/006_contrast_brightness/opencv2/imgproc.hpp
 iostream
 -
 
